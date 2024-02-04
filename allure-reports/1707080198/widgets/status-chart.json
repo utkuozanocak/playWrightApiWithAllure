@@ -1,0 +1,1 @@
+[{"uid":"50d43657e78b6cbc","name":"Simple API Test - Assert Invalid Endpoint","time":{"start":1707080194338,"stop":1707080194560,"duration":222},"status":"passed","severity":"normal"},{"uid":"221c025808015f45","name":"Simple API Test - Assert Response Status","time":{"start":1707080194338,"stop":1707080194517,"duration":179},"status":"passed","severity":"normal"}]
